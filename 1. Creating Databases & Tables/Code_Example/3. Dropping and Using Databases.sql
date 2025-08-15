@@ -1,3 +1,4 @@
+-- Trigger Linguist re-scan: SQL file updated
 
 DROP DATABASE IF EXISTS pet_shop;
 DROP DATABASE IF EXISTS slime_store;
