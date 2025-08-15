@@ -1,0 +1,2 @@
+# Force GitHub to recognize all .sql files as SQL for language statistics
+*.sql linguist-language=SQL
