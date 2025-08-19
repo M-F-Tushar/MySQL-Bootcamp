@@ -2,14 +2,6 @@
 
 Welcome to the **MySQL Bootcamp** repository! This repo contains resources, code examples, and exercises to help you learn and practice MySQL, from the basics to more advanced topics.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Folder Structure](#folder-structure)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 This bootcamp is designed for beginners and intermediate learners who want to master MySQL. It includes step-by-step lessons, hands-on SQL scripts, and practical exercises.
 
