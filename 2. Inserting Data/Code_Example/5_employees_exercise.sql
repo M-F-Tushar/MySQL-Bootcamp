@@ -5,6 +5,7 @@
 -- a specific database, add a line like `USE your_database;` below.
 -- Example: USE my_bootcamp_db;
 
+
 CREATE TABLE IF NOT EXISTS employees (
     id INT AUTO_INCREMENT PRIMARY KEY,
     last_name VARCHAR(100) NOT NULL,
