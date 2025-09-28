@@ -7,7 +7,6 @@
 4. [UPDATE Operations](#update-operations)
 5. [DELETE Operations](#delete-operations)
 6. [Comprehensive Exercises](#comprehensive-exercises)
-
 ---
 
 ## 1. Introduction to CRUD
