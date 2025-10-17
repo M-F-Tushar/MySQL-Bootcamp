@@ -1,5 +1,4 @@
 # Complete MySQL CRUD Operations Guide
-
 ## Table of Contents
 1. [Introduction to CRUD](#introduction-to-crud)
 2. [Setting Up the Dataset](#setting-up-the-dataset)
