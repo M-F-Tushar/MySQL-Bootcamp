@@ -1,4 +1,5 @@
 # Complete SQL CRUD Operations Tutorial
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Database and Table Setup](#database-and-table-setup)
